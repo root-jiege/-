@@ -30,7 +30,38 @@ elseif game.Players.LocalPlayer.Name == "qweyyds9" then
     mykey = "user14"
 elseif game.Players.LocalPlayer.Name == "114514hjj1" then
     mykey = "user15"
-
+elseif game.Players.LocalPlayer.Name == "JP_HYN55" then
+    mykey = "user16"
+elseif game.Players.LocalPlayer.Name == "rtyhwweffdy" then
+    mykey = "user17"
+elseif game.Players.LocalPlayer.Name == "haier_46" then
+    mykey = "user18"
+elseif game.Players.LocalPlayer.Name == "szy_886" then
+    mykey = "user19"
+elseif game.Players.LocalPlayer.Name == "555ysp" then
+    mykey = "user20"
+elseif game.Players.LocalPlayer.Name == "sbzjuh48" then
+    mykey = "user21"
+elseif game.Players.LocalPlayer.Name == "CN_WOYOU91" then
+    mykey = "user22"
+elseif game.Players.LocalPlayer.Name == "vhhh238" then
+    mykey = "user23"
+elseif game.Players.LocalPlayer.Name == "wcnmdsbdxmm" then
+    mykey = "user24"
+elseif game.Players.LocalPlayer.Name == "hjnvjkbgi" then
+    mykey = "user25"
+elseif game.Players.LocalPlayer.Name == "jjmp16666" then
+    mykey = "user26"
+elseif game.Players.LocalPlayer.Name == "xlbwlj" then
+    mykey = "user27"
+elseif game.Players.LocalPlayer.Name == "MameAAAW" then
+    mykey = "user28"
+elseif game.Players.LocalPlayer.Name == "euehhdydhd" then
+    mykey = "user29"
+elseif game.Players.LocalPlayer.Name == "qazplm6668880" then
+    mykey = "user30"
+elseif game.Players.LocalPlayer.Name == "ttfgrrrrr" then
+    mykey = "user31"
 --[[
 elseif game.Players.LocalPlayer.Name == "" then
     mykey = ""
