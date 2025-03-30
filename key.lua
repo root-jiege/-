@@ -76,6 +76,13 @@ elseif game.Players.LocalPlayer.Name == "3691472580mods" then
     mykey = "user37"
 elseif game.Players.LocalPlayer.Name == "wuhaonbnb" then
     mykey = "user38"
+elseif game.Players.LocalPlayer.Name == "91DS_YIQIQUPC" then
+    mykey = "user39"
+elseif game.Players.LocalPlayer.Name == "jvhkvbjv" then
+    mykey = "user40"
+elseif game.Players.LocalPlayer.Name == "jsskksk2" then
+    mykey = "user41"
+
 --[[
 elseif game.Players.LocalPlayer.Name == "" then
     mykey = ""
