@@ -20,8 +20,20 @@ elseif game.Players.LocalPlayer.Name == "Anunknow_fish" then
     mykey = "user9"
 elseif game.Players.LocalPlayer.Name == "samcZSZ" then
     mykey = "user10"
+elseif game.Players.LocalPlayer.Name == "cccccccc666657" then
+    mykey = "user11"
+elseif game.Players.LocalPlayer.Name == "LauKong3" then
+    mykey = "user12"
+elseif game.Players.LocalPlayer.Name == "Bleak602389" then
+    mykey = "user13"
+elseif game.Players.LocalPlayer.Name == "qweyyds9" then
+    mykey = "user14"
+elseif game.Players.LocalPlayer.Name == "114514hjj1" then
+    mykey = "user15"
+
 --[[
 elseif game.Players.LocalPlayer.Name == "" then
     mykey = ""
+
 ]]
 end
