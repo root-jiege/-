@@ -102,6 +102,16 @@ elseif game.Players.LocalPlayer.Name == "jzvjsgskvxhvk" then
     mykey = "user50"
 elseif game.Players.LocalPlayer.Name == "385jjj77" then
     mykey = "user51"
+elseif game.Players.LocalPlayer.Name == "wkhdk90" then
+    mykey = "user52"
+elseif game.Players.LocalPlayer.Name == "xsjzmj" then
+    mykey = "user53"
+elseif game.Players.LocalPlayer.Name == "MegalovaniaPlaytime" then
+    mykey = "user54"
+elseif game.Players.LocalPlayer.Name == "3555wwddds" then
+    mykey = "user55"
+elseif game.Players.LocalPlayer.Name == "Arceus9467" then
+    mykey = "user56"
 --[[
 elseif game.Players.LocalPlayer.Name == "" then
     mykey = ""
