@@ -82,7 +82,26 @@ elseif game.Players.LocalPlayer.Name == "jvhkvbjv" then
     mykey = "user40"
 elseif game.Players.LocalPlayer.Name == "jsskksk2" then
     mykey = "user41"
-
+elseif game.Players.LocalPlayer.Name == "crj123654" then
+    mykey = "user42"
+elseif game.Players.LocalPlayer.Name == "baicai1027" then
+    mykey = "user43"
+elseif game.Players.LocalPlayer.Name == "CN_qwwertyisdf91" then
+    mykey = "user44"
+elseif game.Players.LocalPlayer.Name == "wkhdk34846" then
+    mykey = "user45"
+elseif game.Players.LocalPlayer.Name == "qqqppp123442" then
+    mykey = "user46"
+elseif game.Players.LocalPlayer.Name == "jjjlap3" then
+    mykey = "user47"
+elseif game.Players.LocalPlayer.Name == "qqcylcx" then
+    mykey = "user48"
+elseif game.Players.LocalPlayer.Name == "hasahasawq" then
+    mykey = "user49"
+elseif game.Players.LocalPlayer.Name == "jzvjsgskvxhvk" then
+    mykey = "user50"
+elseif game.Players.LocalPlayer.Name == "385jjj77" then
+    mykey = "user51"
 --[[
 elseif game.Players.LocalPlayer.Name == "" then
     mykey = ""
