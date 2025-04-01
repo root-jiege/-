@@ -188,6 +188,8 @@ elseif game.Players.LocalPlayer.Name == "China114524" then
     mykey = "user92"
 elseif game.Players.LocalPlayer.Name == "zcl321456" then
     mykey = "user93"
+elseif game.Players.LocalPlayer.Name == "zxl200826yyds" then
+    mykey = "LATCreater"
 
 --[[
 elseif game.Players.LocalPlayer.Name == "" then
