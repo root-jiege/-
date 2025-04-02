@@ -192,6 +192,45 @@ elseif game.Players.LocalPlayer.Name == "zxl200826yyds" then
     mykey = "LATCreater"
 elseif game.Players.LocalPlayer.Name == "CN_amns6" then
     mykey = "user95"
+elseif game.Players.LocalPlayer.Name == "tmh722622" then
+    mykey = "user96"
+elseif game.Players.LocalPlayer.Name == "wx004y" then
+    mykey = "user94"
+elseif game.Players.LocalPlayer.Name == "qwerty123v20" then
+    mykey = "user98"
+elseif game.Players.LocalPlayer.Name == "Thedevilinthesoul" then
+    mykey = "user99"
+elseif game.Players.LocalPlayer.Name == "5j5jhh4" then
+    mykey = "Key1"
+elseif game.Players.LocalPlayer.Name == "asd254081" then
+    mykey = "Key2"
+elseif game.Players.LocalPlayer.Name == "cg96970" then
+    mykey = "Key3"
+elseif game.Players.LocalPlayer.Name == "wkhdk90" then
+    mykey = "Key4"
+elseif game.Players.LocalPlayer.Name == "TYL_op" then
+    mykey = "Key5"
+elseif game.Players.LocalPlayer.Name == "lolEZ_800" then
+    mykey = "Key6"
+elseif game.Players.LocalPlayer.Name == "hssbsi22" then
+    mykey = "Key7"
+elseif game.Players.LocalPlayer.Name == "AQqwqz" then
+    mykey = "Key8"
+elseif game.Players.LocalPlayer.Name == "bcbxnskskz" then
+    mykey = "Key9"
+elseif game.Players.LocalPlayer.Name == "SLAP_cn" then
+    mykey = "Key10"
+elseif game.Players.LocalPlayer.Name == "ksmakebei" then
+    mykey = "Key11"
+elseif game.Players.LocalPlayer.Name == "lkjhg11288" then
+    mykey = "Key12"
+elseif game.Players.LocalPlayer.Name == "nmslxxswcnsm" then
+    mykey = "Key13"
+elseif game.Players.LocalPlayer.Name == "12866ttfg" then
+    mykey = "Key14"
+elseif game.Players.LocalPlayer.Name == "doorsloveu" then
+    mykey = "Key15"
+
 --[[
 elseif game.Players.LocalPlayer.Name == "" then
     mykey = ""
