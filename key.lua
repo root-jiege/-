@@ -18,7 +18,6 @@ elseif game.Players.LocalPlayer.Name == "qqyyy3112" then
 elseif game.Players.LocalPlayer.Name == "123_87bv" then
     mykey = "RS_Vip_6"
 end
-end
 --[[
 elseif game.Players.LocalPlayer.Name == "" then
     mykey = ""
