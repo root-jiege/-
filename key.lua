@@ -15,3 +15,8 @@ elseif game.Players.LocalPlayer.Name == "XA_LDT
     mykey = "XA-Admin2"
 
 end
+--[[
+elseif game.Players.LocalPlayer.Name == "" then
+    mykey = ""
+
+]]
