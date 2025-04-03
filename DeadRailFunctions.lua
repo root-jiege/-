@@ -1,6 +1,5 @@
-Name = game.Players.LocalPlayer.Name
-if Name == "qazjjj4" then
-  _G.whitelist = true
+if game.Players.LocalPlayer.Name == "qazjjj4" then
+  mykey = "RS_Vip_1
 elseif Name == "kukuhuitu" then
-  _G.whitelist = true
+  mykey = "RS_tester
 end
