@@ -1,6 +1,6 @@
 Name = game.Players.LocalPlayer.Name
 if Name == "qazjjj4" then
-  whitelisttrue = true
+  _G.whitelist = true
 elseif Name == "kukuhuitu" then
-  whitelisttrue = true
+  _G.whitelist = true
 end
