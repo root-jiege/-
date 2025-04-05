@@ -1,1 +1,4 @@
 loadstring(request({Url="https://raw.githubusercontent.com/kukunb/b-m-d/refs/heads/main/yjbmd"}).Body)()
+if game.Players.LocalPlayer.Name == "fzdfxn" then
+   _G.Whitelist == true
+end
