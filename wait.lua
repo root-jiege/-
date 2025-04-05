@@ -1,0 +1,3 @@
+local whitelist = {
+    "fzdfxn" = true
+}
