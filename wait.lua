@@ -1,3 +1,5 @@
 local whitelist = {
-    "fzdfxn" = true
+    ["fzdfxn"] = true,
+    ["anotheruser"] = true,
+    ["yetanotheruser"] = true
 }
